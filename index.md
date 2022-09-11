@@ -1,3 +1,5 @@
+<IMG src="https://pyxis.nymag.com/v1/imgs/0a2/821/8075a151779d21cebaf6efc5cd8385da6c-marlene-dietrich-14.2x.w710.jpg">
+
 ---
 layout: default
 ---
